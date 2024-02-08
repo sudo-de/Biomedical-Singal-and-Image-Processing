@@ -2,10 +2,10 @@
 
 Biomedical image analysis involves the application of various techniques to process and interpret medical images, such as those obtained from X-rays, MRIs, CT scans, microscopy, and other imaging modalities. Here are some features and capabilities that an advanced biomedical image analysis tool might have:
 
-#### 1. **Image Segmentation:** 
+- 1. **Image Segmentation:** 
 The ability to identify and delineate structures or regions of interest within medical images, which is crucial for further analysis.
 
-#### 2. **Feature Extraction:** 
+- 2. **Feature Extraction:** 
 Extracting quantitative features from images, such as size, shape, texture, and intensity, to characterize biological structures or abnormalities.
 
 #### 3. **Classification and Diagnosis:** 
@@ -29,4 +29,4 @@ Allowing users to develop and integrate custom algorithms for specific research 
 #### 9. **Quantitative Analysis:** 
 Providing tools for quantitative measurements, such as volume, density, and other relevant metrics.
 
-11. **User-Friendly Interface:** An intuitive and user-friendly interface to facilitate use by researchers, clinicians, and other healthcare professionals.
+#### 10. **User-Friendly Interface:** An intuitive and user-friendly interface to facilitate use by researchers, clinicians, and other healthcare professionals.
